@@ -4,3 +4,9 @@
 .env.test.local
 .env.production.local
 
+# ignore venv
+venv/
+
+# ignore pycache
+__pycache__/
+
